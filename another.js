@@ -60,3 +60,7 @@ const playGame = () =>{
 }
 
 playGame();
+/* 
+add some comment
+for the purpose of experiment 
+*/
